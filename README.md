@@ -1,2 +1,2 @@
 # SteamLike
-A steam Punk Themed roguelike
+A SteamPunk-Themed Roguelike
